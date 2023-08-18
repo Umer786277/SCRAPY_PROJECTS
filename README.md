@@ -5,11 +5,6 @@
 
 
 
-Setup and Initialization:
-
-Install Scrapy framework.
-Create a Scrapy project for the ParlourX website.
-Parsing Categories and Subcategories:
 
 Visit the main page (https://www.parlourx.com/).
 Extract category and subcategory information using CSS or XPath selectors.
