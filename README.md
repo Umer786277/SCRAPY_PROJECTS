@@ -3,7 +3,7 @@
 #Project Description: Web Scraping of https://www.parlourx.com/
 
 
-Certainly! Here's a concise description of the project's working logic:
+
 
 Setup and Initialization:
 
